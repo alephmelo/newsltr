@@ -2,6 +2,6 @@
 Get free e-books everyday! 
 
 #### To-do
-* Django app to receive forms
+* Bottle app to get e-mails. 
 * Deploy crawler on Heroku
 * And some other small things
